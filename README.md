@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahesh
 
-<!--
-**Mahesh-011/mahesh-011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Passionate about Data Storytelling  
+📊 Proficient in SQL | Power BI | Python  
+📚 Currently building real-world projects to sharpen my skills  
+🚀 Eager to contribute to data-driven decision making  
 
-Here are some ideas to get you started:
+## 🧰 Tools & Technologies
+- SQL (MySQL, PostgreSQL)
+- Power BI
+- Python (Pandas, Matplotlib, Seaborn)
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [🛒 Walmart Sales Analysis](https://github.com/Mahesh-011/walmart-sales-analysis)
+- [📈 E-commerce Dashboard with Power BI](#)
+- [🔍 Credit Card Fraud Detection with Python](#)
+- [Customer Segmentation]
+- [Web Scraping with Python]
+
+## 📫 Let's Connect
+- 📧 maheshgodala1@gmail.com
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
