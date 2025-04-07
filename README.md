@@ -13,7 +13,7 @@
 
 ## 📌 Projects
 - [🛒 Walmart Sales Analysis](https://github.com/Mahesh-011/walmart-sales-analysis)
-- [📈 E-commerce Dashboard with Power BI](#)
+- [📈 E-commerce Dashboard with Power BI] 
 - [🔍 Credit Card Fraud Detection with Python](#)
 - [Customer Segmentation]
 - [Web Scraping with Python]
