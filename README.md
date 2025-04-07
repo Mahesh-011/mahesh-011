@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahesh
 
-🎯 Aspiring Data Analyst | Passionate about Data Storytelling  
+🎯 Aspiring Data Analyst | Passionate about Transforming Data into Actionable Insights.  
 📊 Proficient in SQL | Power BI | Python  
 📚 Currently building real-world projects to sharpen my skills  
 🚀 Eager to contribute to data-driven decision making  
