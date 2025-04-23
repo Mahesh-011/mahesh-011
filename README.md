@@ -12,9 +12,9 @@
 - Excel
 
 ## 📌 Projects
-- [🛒 Walmart Sales Analysis](https://github.com/Mahesh-011/walmart-sales-analysis)
-- [📈 E-commerce Dashboard with Power BI](https://github.com/Mahesh-011/ecommerce-sales-analysis)
+- [📈 E-commerce Sales Dashboard with Power BI](https://github.com/Mahesh-011/ecommerce-sales-analysis)
 - [🔍 Credit Card Fraud Detection with Python](#)
+- [🛒 Walmart Sales Analysis](https://github.com/Mahesh-011/walmart-sales-analysis)
 - [🧠Customer Segmentation](https://github.com/Mahesh-011/customer-segmentation)
 - [Web Scraping with Python](#)
 
