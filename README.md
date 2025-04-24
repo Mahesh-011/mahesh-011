@@ -7,8 +7,8 @@
 
 ## 🧰 Tools & Technologies
 - SQL (MySQL, PostgreSQL)
-- Power BI
 - Python (Pandas, Matplotlib, Seaborn)
+- Power BI
 - Excel
 
 ## 📌 Projects
