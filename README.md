@@ -14,7 +14,7 @@
 ## 📌 Projects
 - [🔍 Saas Sales Analysis With Python](https://github.com/Mahesh-011/Saas_sales_analysis)
 - [📈 E-commerce Sales Dashboard with SQL & Power BI](https://github.com/Mahesh-011/ecommerce-sales-analysis)
-- [🛒 Walmart Sales Forecasting](https://github.com/Mahesh-011/walmart-sales-analysis)
+- [🛒 Walmart Sales Time Series Forecasting](https://github.com/Mahesh-011/walmart-sales-analysis)
 - [🧠Customer Segmentation](https://github.com/Mahesh-011/customer-segmentation)
 - [Web Scraping using Python](#)
 
