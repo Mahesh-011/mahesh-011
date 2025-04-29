@@ -20,5 +20,4 @@
 
 ## 📫 Let's Connect
 - 📧 maheshgodala1@gmail.com
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-
+- [LinkedIn](www.linkedin.com/in/mahesh-godala-011m)
