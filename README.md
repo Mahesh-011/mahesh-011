@@ -8,8 +8,8 @@
 ## 📌 Projects
 - [🔍 Saas Sales Analysis With Python](https://github.com/Mahesh-011/Saas_sales_analysis)
 - [📈 E-commerce Sales Dashboard with SQL & Power BI](https://github.com/Mahesh-011/ecommerce-sales-analysis)
-- [🛒 Walmart Sales Time Series Forecasting](https://github.com/Mahesh-011/walmart-sales-analysis)
 - [🎧 Spotify Global Streaming Data Analysis](https://github.com/Mahesh-011/spotify-streaming-analysis)
+- [🛒 Walmart Sales Time Series Forecasting](https://github.com/Mahesh-011/walmart-sales-analysis)
 - [Web Scraping using Python](#)
 
 
